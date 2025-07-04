@@ -1,0 +1,3 @@
+id,name,category,price,quantity,supplier,image,created_at,updated_at
+1,omo,detergents,232.0,7,airel company,NULL,2025-07-01 10:41:54,2025-07-02 11:09:57
+2,Bikes,vehicles,1233.0,1,honda,1751361393781.webp,2025-07-01 10:55:39,2025-07-02 10:39:49
