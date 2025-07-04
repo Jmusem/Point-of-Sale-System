@@ -1,1 +1,1 @@
-# Point-of-Sale-System
+# Point of Sale (POS) System 
