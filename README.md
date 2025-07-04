@@ -1,112 +1,42 @@
-# \# 🧾 Point of Sale (POS) System
+ 🛒 Point of Sale (POS) System
 
-# 
+A modern, full-stack **Point of Sale system** built with **React** (frontend) and **Node.js/Express** (backend). Designed for small and medium-sized businesses to manage inventory, sales, customers, and payments efficiently.
 
-# A full-featured Point of Sale (POS) web application built using \*\*React.js\*\* for the frontend and \*\*Node.js + Express\*\* for the backend. This system is designed for small to medium-sized businesses to manage sales, products, customers, and transactions efficiently.
+---
 
-# 
+🚀 Features
 
-# ---
+ ✅ Frontend (React)
+- User-friendly POS dashboard
+- Inventory management
+- Admin dashboard
+- Customer and product management
+- Sales tracking and receipts
+- Responsive UI with React
+✅ Backend (Node.js )
+- RESTful API for managing products, sales, users
+- Image and file uploads (e.g. product images, receipts)
+- M-Pesa integration for mobile payments
+- Secure authentication and authorization
 
-# 
+---
 
-# \## 🚀 Features
+🧰 Tech Stack
 
-# 
+| Layer       | Technologies                         |
+|-------------|--------------------------------------|
+| Frontend    | React, , JavaScrip bootstrap       |
+| Backend     | Node.js                              |
+| Database    |  Mysql
+| Auth        | JWT (JSON Web Tokens)                |
+| Payments    | M-Pesa Integration                   |
+| Deployment  | GitHub, (optional: Render, Heroku)   |
 
-# \- 🛒 Product Management (CRUD)
+---
 
-# \- 👤 Customer Management
+Getting Started
+ 1. Clone the Repo
 
-# \- 💳 Sales \& Transactions with receipts
-
-# \- 📦 Inventory Tracking
-
-# \- 📊 Dashboard with analytics
-
-# \- 🔐 Secure Authentication and Role-based Access
-
-# \- 🧾 Printable Invoices
-
-# \- 💾 Persistent data with MongoDB or MySQL
-
-# \- 🌐 RESTful API integration
-
-# 
-
-# ---
-
-# 
-
-# \## 🧰 Tech Stack
-
-# 
-
-# \### Frontend:
-
-# \- React.js
-
-# \- React Router
-
-# \- Axios
-
-# \- Tailwind CSS / Bootstrap
-
-# 
-
-# \### Backend:
-
-# \- Node.js
-
-# \- Express.js
-
-# \- MongoDB / MySQL
-
-# \- JWT for authentication
-
-# 
-
-# ---
-
-# 
-
-# \## 📂 Project Structure
-
-# 
-
-# ```bash
-
-# pos-system/
-
-# ├── client/               # React frontend
-
-# │   ├── src/
-
-# │   │   ├── components/
-
-# │   │   ├── pages/
-
-# │   │   └── App.js
-
-# │   └── package.json
-
-# ├── server/               # Node.js backend
-
-# │   ├── routes/
-
-# │   ├── controllers/
-
-# │   ├── models/
-
-# │   └── server.js
-
-# ├── .gitignore
-
-# ├── README.md
-
-# └── package.json
-
-
-
-
-
+```bash
+git clone https://github.com/Jmusem/Point-of-Sale-System.git
+cd Point-of-Sale-System/pos-system
